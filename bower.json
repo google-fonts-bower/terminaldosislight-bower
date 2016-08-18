@@ -1,0 +1,17 @@
+{
+    "name": "terminaldosislight-googlefont",
+    "license": "OFL",
+    "authors": [
+        "multiple designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/terminaldosislight-bower.git"
+    },
+    "description": "Terminal Dosis Light font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
